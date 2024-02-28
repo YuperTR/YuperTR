@@ -2,23 +2,23 @@
 - 👀 I’m interested in C# Game developing <br>
 - 🌱 I’m currently learning CSS <br>
 - 📝 My Projects<br>
-  ➤<a href="http://yupertr.html-5.me/index.html">About YuperTR</a>(Turkish)
+  ➤<a href="#">About YuperTR</a>(Turkish) (It was a free domain. So it closed it self.)
 - 📖 My qualifications: <br>
   ➤HTML<br>
   ➤CSS <br>
-  ➤ENGLISH B2- <br>
+  ➤ENGLISH B2 <br>
 - ⚙️ Programs<br>
   ➤Visual Studio Code<br>
   ➤blockbench<br>
   ➤Adobe Photoshop<br>
-  ➤Paint.net<br>
+  ➤Blender <br>
 - 📚 What I want to learn: <br>
   ➤JavaScript <br>
   ➤Bootstrap 5 <br>
   ➤C# <br>
-  ➤Blender <br>
   ➤FL Studio <br>
   ➤Unity<br>
+  ➤Godot<br>
   (Maybe even more)
 
 <!---
