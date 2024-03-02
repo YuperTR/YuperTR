@@ -2,7 +2,7 @@
 - 👀 I’m interested in C# Game developing <br>
 - 🌱 I’m currently learning CSS <br>
 - 📝 My Projects<br>
-  ➤<a href="#">About YuperTR</a>(Turkish) (It was a free domain. So it closed it self.)
+  ➤<a href="http://yupertr.html-5.me/index.html">About YuperTR</a>(Turkish) (It is a free domain. For now.)
 - 📖 My qualifications: <br>
   ➤HTML<br>
   ➤CSS <br>
